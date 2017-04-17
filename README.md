@@ -1,6 +1,12 @@
 <table>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/shan3.jpg"/></td><br/>
+   </tr>
+  <tr>
+   <td align=center>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
+  </tr>
   <tr>
    <td align=center>
 ❤❤致我们心中的善❤❤<br/>
