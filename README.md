@@ -1,16 +1,16 @@
 <table>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/shan3.jpg"/></td><br/>
-   </tr>
-  <tr>
-   <td align=center>
-微信如果提示：停止访问该网页<br/>
-请点击右上角，选择浏览器打开<br/>
-  </tr>
   <tr>
    <td align=center>
 ❤❤致我们心中的善❤❤<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c817056&from=wnel">请点击在线观看</a><br/>
+   </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
+  </tr>
+  <tr>
+  <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
 </tr>
   <tr>
@@ -68,4 +68,6 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
   </tr>
   <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
+
 </table>    
