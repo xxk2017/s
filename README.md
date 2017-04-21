@@ -1,5 +1,8 @@
 <table>
   <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E9%93%81%E8%AF%81%E7%8B%AC%E5%AE%B6.jpg" /></td>
+  </tr>
+  <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/shan3.jpg"/></td><br/>
   <tr>
    <td align=center>
@@ -20,8 +23,59 @@
 ◆请制止尘世间所有黑暗与罪恶<br/>
 ◆请帮助制止中共活摘器官<br/>
 ◆让人性回归神的造化<br/>
-◆在中国，数量巨大的人群被中共政权活摘器官贩卖。其中包括法轮大法修炼者，社会公德之士和少数族裔群体。 十年之久，世界才正视这反人类罪行。杀戮持续至今。 <br/>
-</tr>
+◆在中国，数量巨大的人群被中共政权活摘器官贩卖。其中包括法轮大法修炼者，社会公德之士和少数族裔群体。 十年之久，世界才正视这反人类罪行。杀戮持续至今。
+   </tr>
+  <tr>
+    <td align=center>
+  ▼▼▼更多同系列精彩影片▼▼▼<br/>
+   </tr>
+  <tr>
+  <td align=center>
+如打开慢，缓冲稍等或刷新<br/>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
+   </tr>
+  <tr>
+<td align=center>
+◆活摘十年调查◆揭开中共活摘震撼内幕<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看</a> <br/>
+   </tr>
+  <tr>
+  <td align=center>
+◆铁证如山◆头号史案：超越纳粹<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel"> 请点击在线观看</a><br/>
+   </tr>
+  <tr>
+  <td align=center>
+◆专家讲座◆中共活摘器官 国家犯罪罪证<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816787&from=wnel">请点击在线观看</a> <br/>
+   </tr>
+  <tr>
+<td align=center>
+◆大卫战红魔◆唤醒良知，震撼心灵！<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
+   </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.JPG" /></td>
+   </tr>
+  <tr>
+      <td align=center>
+◆这种反人类罪恶至今还在中国继续◆<br/>
+   </tr>
+  <tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%A4%A7%E5%8D%AB%E6%88%98%E7%BA%A2%E9%AD%943.png" /></td>
+   </tr>
+  <tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
+   </tr>
+  <tr>
+      <td align=center>
+◆残忍超越纳粹 引发全球关注◆<br/>
+   </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E6%B4%BB%E6%91%982.jpg" /></td>
+   </tr>
   <tr>
 <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
