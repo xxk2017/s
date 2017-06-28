@@ -7,7 +7,7 @@
   <tr>
    <td align=center>
 ❤❤致我们心中的善❤❤<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c817056&from=wnel">请点击在线观看</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c817056&from=wnel">请点击在线观看</a><br/>
    </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
@@ -39,22 +39,22 @@
   <tr>
 <td align=center>
 ◆活摘十年调查◆揭开中共活摘震撼内幕<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看</a> <br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816779&from=wnel">请点击在线观看</a> <br/>
    </tr>
   <tr>
   <td align=center>
 ◆铁证如山◆头号史案：超越纳粹<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel"> 请点击在线观看</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel"> 请点击在线观看</a><br/>
    </tr>
   <tr>
   <td align=center>
 ◆专家讲座◆中共活摘器官 国家犯罪罪证<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816787&from=wnel">请点击在线观看</a> <br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816787&from=wnel">请点击在线观看</a> <br/>
    </tr>
   <tr>
 <td align=center>
 ◆大卫战红魔◆唤醒良知，震撼心灵！<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
    </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.JPG" /></td>
@@ -88,33 +88,33 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌、火狐浏览器，国产浏览器易干扰<br/>
+推荐谷歌/火狐浏览器，国产浏览器易干扰<br/>
        </td>
   </tr>
   <tr>
-<td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
-推荐谷歌或火狐浏览器<br/>
-国产浏览器会干扰访问<br/>
-    </td>
+<td align=center>网门网址 https://git.io/ogate 请收藏浏览器<br/>
   </tr>
   <tr>
     <td align=center>
 如打开慢，缓冲稍等或刷新<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
+  </tr>
+  <tr>
+  <td align=center>请尝试不同入口，进入动态网址<br/>
+      <a target="_blank" href="https://cdn.rawgit.com/ogate/up/master/oGates.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a><br/>
+      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
-    </td>
   </tr>
   <tr>
       <td align=center>
 2017网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-  </tr>
-  <tr>
-    <td align=center>
-<a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条</a><br/>
-    </td>
+下载安卓版更快更方便<br/>
   </tr>
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
@@ -126,6 +126,9 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
-
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>  </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>  </tr>
+  <tr>
 </table>    
+
