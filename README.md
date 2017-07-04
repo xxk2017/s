@@ -18,8 +18,8 @@
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
 ◆https://git.io/vQgqs 本页短网址<br/>
-   </tr>
-  <tr>
+</tr>
+<tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E9%93%81%E8%AF%81%E7%8B%AC%E5%AE%B6.jpg" /></td>
   </tr>
   <tr>
@@ -202,6 +202,6 @@ https://git.io/88<br/>
 ◆https://git.io/vQgme 铁证如山 超越纳粹<br/>
 ◆https://git.io/vQgms 大卫战红魔<br/>
 ◆https://git.io/vQgqs 致我们心中的善<br/>
-   </tr>
-  <tr>
-</table> 
+</tr>
+<tr>
+</table>
