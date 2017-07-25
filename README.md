@@ -3,6 +3,18 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
   </tr>
   <tr>
+<td align=left>本页短网址：https://git.io/vQgT9 <br/>
+❤翻墙永久网址：https://git.io/ogate <br/>
+本页如屏蔽，请将网址输入谷歌浏览器<br/>
+苹果用户请输入网址到苹果浏览器打开<br/>
+网民必备浏览器：谷歌浏览器（请安装）<br/>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
+<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
+<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
+国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
+</tr>
+<tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
@@ -130,11 +142,12 @@
   </tr>
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a><br/>
-      <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://rawgit.com/onorm/up/master/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=wnel">入口</a><br/>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
@@ -167,15 +180,15 @@
 网门桌面版 https://git.io/ogatew<br/>
 谷歌桌面版 https://git.io/ogatecw<br/>
 ◆全球最人气翻墙软件<br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
 ◆全球最佳浏览器——大陆网民必备<br/> 
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -189,17 +202,17 @@ https://git.io/vQowA<br/>
 无界安卓版 https://git.io/v6836 <br/>
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
-II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙直连全球真实资讯<br/>
+II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙全球真实资讯<br/>
 II苹果用户最佳免费翻墙大全：https://git.io/vQo02<br/>
-II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 随时浏览全球真实资讯<br/>
+II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 浏览全球真实资讯<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
-II安卓、电脑用户，安装并成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
+II安卓、电脑用户，成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
 II更多翻墙大全 https://git.io/jww<br/>
  </tr>
   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
 ◆大陆网民请使用谷歌浏览器<br/>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
+<a href="https://s3.amazonaws.com/ogate/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
